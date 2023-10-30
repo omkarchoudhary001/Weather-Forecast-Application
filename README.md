@@ -1,6 +1,7 @@
 # Weather-Forecast-Application
 A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 Additional description about the project and its features.
+![image](https://github.com/omkarchoudhary001/Weather-Forecast-Application/assets/109873576/a73f7947-76d2-41e1-870b-0963e1c4b2b8)
 
 ## Built With
 
@@ -12,16 +13,11 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/omkarchoudhary001) :point_left:
+[Live Demo Link](https://omkarchoudhary001.github.io/Weather-Forecast-Application/):point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
-
-### Usage
-- To get a local copy up and running follow these simple example steps.
-
-Clone the repository unto your local machine cd to the folder.
-
+- ![image](https://github.com/omkarchoudhary001/Weather-Forecast-Application/assets/109873576/dfa41b88-bfe0-4079-aa28-0f3aee512181)
 
 ### Prerequisites
 
@@ -31,9 +27,13 @@ Clone the repository unto your local machine cd to the folder.
 
 - There is no automated tests for this project.
 
-## Future features
+## how to use 
+1)Enter location:
+Enter the location (city, country, etc.) for which you want to check the weather.
 
-- Add extra functionality and a contact page.
+## View Weather Information:
+Click the "Enter City Name" button to view the weather information for the specified location.
+![Screenshot (9)](https://github.com/omkarchoudhary001/Weather-Forecast-Application/assets/109873576/f3d74273-f356-43cb-a1f7-525cc2843ac0)
 
 ## Author
 
